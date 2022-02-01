@@ -1,4 +1,4 @@
-package br.com.alura.escola.shared.domain;
+package br.com.alura.escola.shared.dominio;
 
 public class CPF {
 	

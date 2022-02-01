@@ -1,11 +1,11 @@
-package br.com.alura.escola.shared.domain;
+package br.com.alura.escola.shared.dominio;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.escola.shared.domain.CPF;
+import br.com.alura.escola.shared.dominio.CPF;
 
 class CPFTest {
 
