@@ -6,6 +6,10 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import br.com.alura.escola.academico.dominio.aluno.Aluno;
+import br.com.alura.escola.academico.dominio.aluno.CPF;
+import br.com.alura.escola.academico.dominio.aluno.Email;
+
 class AlunoTest {
 
 	private Aluno aluno;
