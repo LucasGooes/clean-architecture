@@ -1,4 +1,4 @@
-package br.com.alura.escola.aplicacao.aluno.matricular;
+package br.com.alura.escola.academico.aplicacao.aluno.matricular;
 
 import static org.junit.jupiter.api.Assertions.*;
 
