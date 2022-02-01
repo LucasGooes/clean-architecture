@@ -3,9 +3,9 @@ package br.com.alura.escola.gamificacao.infra.selo;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.alura.escola.academico.dominio.aluno.CPF;
 import br.com.alura.escola.gamificacao.dominio.selo.RepositorioDeSelos;
 import br.com.alura.escola.gamificacao.dominio.selo.Selo;
+import br.com.alura.escola.shared.domain.CPF;
 
 public class RepositorioDeSelosEmMemoria implements RepositorioDeSelos {
 	
